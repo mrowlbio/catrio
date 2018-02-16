@@ -9,8 +9,3 @@ A mario like game, but with cats.
 or download all the files.
 * run main.py `pyhton3 main.py`
 
-# Rules 
-You are a cat trapped in a castle of evil black dots. These dots are savage and WILL attack any lifeforms, Food gives you health. Your mission is to reach the end.
-
--Written by mrowlbio
-
